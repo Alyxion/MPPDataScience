@@ -1,0 +1,43 @@
+name: mpp_ds
+channels:
+  - conda-forge
+  - anaconda
+  - defaults
+  - omnia
+dependencies:
+  - python=3.6.6
+  - notebook
+  - numpy
+  - tensorflow=1.11.0
+  - keras-base
+  - pysocks=1.6.8
+  - opencv
+  - moviepy
+  - tqdm
+  - tensorboard=1.11.0
+  - dash
+  - dash-core-components
+  - dash-html-components
+  - h5py
+  - hdf5
+  - ffmpeg
+  - flask
+  - flask-compress
+  - flask-cors
+  - networkx=2.2
+  - pandas
+  - openssl
+  - pillow
+  - pip
+  - plotly
+  - scikit-image
+  - scikit-learn
+  - scipy
+  - imageio-ffmpeg
+  - imageio=2.4.1
+  - kivy
+  - aiohttp
+  - requests
+  - svgwrite
+  - qrcode
+  - seaborn
