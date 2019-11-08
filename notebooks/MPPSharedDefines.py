@@ -16,6 +16,7 @@ TEMP_PATH = os.path.realpath(os.getcwd()+"/../temp/")+"/"  # Temporary directory
 
 TRAIN_DATA_FN = 'train_values.csv'  # Train data CSV
 TRAIN_LABELS_FN = "train_labels.csv"  # Label data CSV
-CLEANED_OUTPUT_FN = "train_cleaned.csv"  # Cleaned training data
-CLEANED_OUTPUT_FN_XLS = "train_cleaned.xlsx"  # Cleaned training data
+CLEANED_TRAINING_OUTPUT_FN = "train_cleaned.csv"  # Cleaned training data
+CLEANED_TRAINING_OUTPUT_FN_XLS = "train_cleaned.xlsx"  # Cleaned training data
+CLEANED_TEST_OUTPUT_FN = "test_cleaned.csv"  # Cleaned training data
 TEST_VALUES_FN = "test_values.csv"  # Test value CSV
